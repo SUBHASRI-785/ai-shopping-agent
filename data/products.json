@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Laptop A",
+        "price": 55000,
+        "category": "Laptop",
+        "purpose": "Programming",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+    },
+    {
+        "name": "Laptop B",
+        "price": 62000,
+        "category": "Laptop",
+        "purpose": "Programming",
+        "ram": "16GB",
+        "storage": "1TB SSD"
+    },
+    {
+        "name": "Laptop C",
+        "price": 48000,
+        "category": "Laptop",
+        "purpose": "Programming",
+        "ram": "8GB",
+        "storage": "512GB SSD"
+    }
+]
